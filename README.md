@@ -1,7 +1,7 @@
 # Student-life-OS
 ​Student Life OS is a lightweight, all-in-one web portal designed to help students organize their academic performance, track personal finances, manage skill progression, and stay on top of critical task deadlines. Built as a multi-tier dashboard, the application handles user authentication and dynamically tracks metrics across multiple integrated tools.
 
-🚀 Key Features
+🚀 Key Features:
 🔒 Secure Student Authentication: Features a localized authentication mechanism with customized login and registration steps to safely segregate user environments.
 
 📚 Academic Tracker & CGPA Calculator: Dynamically inputs course grades and credits, automatically calculating real-time CGPA metrics using standard weighted grade point rules.
